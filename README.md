@@ -1,4 +1,4 @@
-# Sasakama
+# Sasakama-android
 Copyright (c) 2017 Intelligent Communication Network (Ito-Nose) Laboratory
 		   Tohoku University.  
 Copyright (c) 2001-2015 Nagoya Institute of Technology
